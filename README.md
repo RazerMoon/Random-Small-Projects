@@ -1,4 +1,4 @@
-# Random-Small-Projects
+# Random-Small-Projects ![License](https://img.shields.io/badge/license-Creative%20Commons%20Attribution%204.0-informational)
 A collection of my small coding projects.
 
 ## [Uncommon friends](Uncommon_friends/)
